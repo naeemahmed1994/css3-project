@@ -1,0 +1,6 @@
+.box{
+    width: 400px;
+    height: 200px;
+    border: 7px solid blueviolet;
+    overflow: scroll ;
+}
